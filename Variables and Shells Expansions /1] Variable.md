@@ -216,7 +216,7 @@ echo "Hello, $name!"
 ---
 
 ---
-[Jump to Next Topic ](https://github.com/pranav-infrabuild/Bash-logBook/blob/main/Variables%20and%20Shells%20Expansions%20/2)%20Expansion%20Tricks.md)
+## [Jump to Next Topic ](https://github.com/pranav-infrabuild/Bash-logBook/blob/main/Variables%20and%20Shells%20Expansions%20/2%5D%20Expansion%20Tricks.md)
 
 
 
