@@ -174,3 +174,17 @@ chmod 754 example.txt
 
 ## [Solve Task 1](https://github.com/pranav-infrabuild/Bash-logBook/blob/main/How%20to%20Build%20Bash%20Script%20/Task%201.md)
 
+---
+
+---
+
+<div align="center">
+
+🎯 **End of Section**  
+_You've completed the topic:_  
+### 🛠️ _How to Build Bash Script_
+
+</div>
+
+---
+
